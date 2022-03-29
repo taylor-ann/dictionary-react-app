@@ -19,7 +19,7 @@
     border: 1px solid #ddd;
 }
 
-.Dictionary hint{
+.Dictionary .hint{
     font-size: 11px;
     margin-top: 5px;
 }
